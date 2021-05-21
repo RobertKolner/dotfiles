@@ -1,0 +1,5 @@
+git://github.com/JuliaEditorSupport/julia-vim.git
+git@github.com:vim-airline/vim-airline
+git@github.com:vim-airline/vim-airline-themes
+git://github.com/altercation/vim-colors-solarized.git
+git@github.com:airblade/vim-gitgutter.git

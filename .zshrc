@@ -98,7 +98,6 @@ fi
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias e=exa
 
 # User Python packages
 export PATH="/home/robert/.local/bin:$PATH"

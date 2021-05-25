@@ -103,9 +103,8 @@ fi
 export PATH="/home/robert/.local/bin:$PATH"
 
 # Pyenv
-export PATH="/home/robert/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
-eval "$(pyenv virtualenv-init -)"
+#eval "$(pyenv virtualenv-init -)"
 
 ## NVM
 export NVM_DIR="$HOME/.nvm"
